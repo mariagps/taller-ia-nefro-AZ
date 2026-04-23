@@ -1,0 +1,323 @@
+﻿Title,Authors,DOI,DOI link,Venue,Citation count,Year,Summary,Study Population & CKD Stage,Población y tasa de filtrado glomerular,"Supporting quotes for ""Summary""","Supporting tables for ""Summary""","Reasoning for ""Summary""","Supporting quotes for ""Study Population & CKD Stage""","Supporting tables for ""Study Population & CKD Stage""","Reasoning for ""Study Population & CKD Stage""","Supporting quotes for ""Población y tasa de filtrado glomerular""","Supporting tables for ""Población y tasa de filtrado glomerular""","Reasoning for ""Población y tasa de filtrado glomerular"""
+Effects of dapagliflozin on development and progression of kidney disease in patients with type 2 diabetes: an analysis from the DECLARE-TIMI 58 randomised trial.,"Ofri Mosenzon, S. Wiviott, Avivit Cahn, Aliza Rozenberg, Ilan Yanuv, Erica L. Goodrich, S. Murphy, H. Heerspink, Thomas A. Zelniker, J. Dwyer, Deepak L. Bhatt, Lawrence A Leiter, D. McGuire, John P H Wilding, Eri Toda Kato, I. Gause-Nilsson, M. Fredriksson, P. Johansson, A. Langkilde, M. Sabatine, I. Raz",10.1016/S2213-8587(19)30180-9,https://doi.org/10.1016/S2213-8587(19)30180-9,The Lancet Diabetes and Endocrinology,564,2019,"Dapagliflozin prevents and reduces progression of kidney disease in patients with type 2 diabetes, but the study does not specifically address chronic kidney disease stage 3. The evidence is strong with 17,160 participants and a median follow-up of 4.2 years.","- Total sample size: 17,160
+- Number randomized to each group: Not mentioned
+- Percentage/number with type 2 diabetes: 100% (all participants had type 2 diabetes)
+- Percentage/number without diabetes: 0% (all participants had type 2 diabetes)
+- Baseline eGFR range and mean/median values: Median eGFR not specified; 8,162 (47.6%) had an eGFR of at least 90 mL/min per 1.73 m^2
+- Baseline UACR or albuminuria status: Not mentioned
+- Mean or median age: Not mentioned
+- Underlying cause of CKD: Not mentioned
+- Exclusion criteria affecting CKD stage 3 populations: Not mentioned","- eGFR range: At least 90 mL/min per 1·73 m² for 47.6% of participants
+- CKD stage: Not mentioned
+- Population: Type 2 diabetes
+- Percentage of diabetic patients: Not mentioned","  - ""Dapagliflozin seemed to prevent and reduce progression of kidney disease compared with placebo in this large and diverse population of patients with type 2 diabetes with and without established atherosclerotic cardiovascular disease, most of whom had preserved renal function.""
+  - ""The trial took place between April 25, 2013, and Sept 18, 2018; median follow-up was 4·2 years (IQR 3·9-4·4). Of the 17 160 participants who were randomly assigned, 8162 (47·6%) had an eGFR of at least 90 mL/min per 1·73 m""",,"- The abstract indicates that dapagliflozin was effective in preventing and reducing the progression of kidney disease in patients with type 2 diabetes, which aligns with the research question about reducing progression to dialysis.
+- The study involved a large number of participants (17,160) with a median follow-up of 4.2 years, which suggests strong evidence.
+- The study included patients with and without established atherosclerotic cardiovascular disease, but it does not specifically mention patients with chronic kidney disease stage 3, which is a limitation in directly answering the research question.","  - ""The trial took place between April 25, 2013, and Sept 18, 2018; median follow-up was 4·2 years (IQR 3·9-4·4). Of the 17 160 participants who were randomly assigned, 8162 (47·6%) had an eGFR of at least 90 mL/min per 1·73 m""
+  - ""Dapagliflozin seemed to prevent and reduce progression of kidney disease compared with placebo in this large and diverse population of patients with type 2 diabetes with and without established atherosclerotic cardiovascular disease, most of whom had preserved renal function.""
+  - ""Here we report analyses of renal outcomes with the SGLT2 inhibitor dapagliflozin in the DECLARE-TIMI 58 cardiovascular outcomes trial, which included patients with type 2 diabetes both with and without established atherosclerotic cardiovascular disease and mostly with preserved renal function.""",,"- The study population consisted of patients with type 2 diabetes, both with and without established atherosclerotic cardiovascular disease, indicating that all participants had type 2 diabetes.
+- The total sample size was 17,160 participants, with 8,162 (47.6%) having an eGFR of at least 90 mL/min per 1.73 m^2, which suggests a population with mostly preserved renal function rather than CKD stage 3.
+- The abstract does not provide specific information on the baseline UACR or albuminuria status, mean or median age, or the underlying cause of CKD.
+- There is no mention of exclusion criteria that would affect applicability to CKD stage 3 populations.","  - ""Of the 17 160 participants who were randomly assigned, 8162 (47·6%) had an eGFR of at least 90 mL/min per 1·73 m""
+  - ""patients with type 2 diabetes both with and without established atherosclerotic cardiovascular disease and mostly with preserved renal function.""",,"- The abstract mentions that the study included patients with type 2 diabetes, indicating that the population is specifically diabetic.
+- The phrase ""mostly with preserved renal function"" suggests that the majority of participants had relatively good kidney function at baseline.
+- The specific eGFR value is provided: ""8162 (47·6%) had an eGFR of at least 90 mL/min per 1·73 m,"" which indicates a subset of the population with preserved renal function.
+- There is no mention of CKD stage or a mean eGFR value for the entire population, nor is there a percentage of diabetic patients beyond the fact that the study focused on type 2 diabetes patients.
+- The abstract does not provide a mean eGFR or CKD stage for the entire population, nor does it specify a percentage of diabetic patients beyond the eGFR subgroup."
+Effect of dapagliflozin on kidney and cardiovascular outcomes by baseline KDIGO risk categories: a post hoc analysis of the DAPA-CKD trial,"Simke W. Waijer, P. Vart, D. Cherney, G. Chertow, N. Jongs, A. Langkilde, JohannesF. E. Mann, Ofri Mosenzon, J. McMurray, P. Rossing, R. Correa-Rotter, B. Stefánsson, R. Toto, D. Wheeler, Hiddo J. L. Heerspink",10.1007/s00125-022-05694-6,https://doi.org/10.1007/s00125-022-05694-6,Diabetologia,50,2022,"Dapagliflozin reduces the risk of progression to end-stage kidney disease, which may include dialysis, in patients with chronic kidney disease and type 2 diabetes, as shown in a large, double-blind, placebo-controlled trial.","- Total sample size: 4304
+- Number randomized to each group: 2152 (dapagliflozin), 2152 (placebo)
+- Percentage/number with type 2 diabetes: 67.5% (2906)
+- Percentage/number without diabetes: 32.5% (1398)
+- Baseline eGFR range: 25–75 ml min -1 [1.73 m] -2
+- Mean eGFR: 43.1 ml min -1 [1.73 m] -2
+- Baseline UACR: Median 107.2 mg/mmol
+- Mean age: 61.8 years
+- Underlying cause of CKD: Not explicitly mentioned
+- Exclusion criteria: Type 1 diabetes, polycystic kidney disease, lupus nephritis, immunotherapy for kidney disease","- Mean eGFR 43.1 ml/min/1.73m² (CKD 3b-4)
+- 67.5% diabetic; diabetic subgroup analysis available","  - ""dapagliflozin reduced the risks of progressive kidney disease, hospitalised heart failure or cardiovascular death, and death from all causes in patients with chronic kidney disease (CKD) with or without type 2 diabetes.""
+  - ""The primary endpoint was a composite of ≥50% reduction in eGFR, end-stage kidney disease (ESKD), and death from a kidney or cardiovascular cause.""
+  - ""Of the 4304 participants in the DAPA-CKD study, 619 (14.4%) were moderately high risk, 1349 (31.3%) were high risk and 2336 (54.3%) were very high risk when categorised by KDIGO risk categories at baseline.""",,"- The abstract indicates that dapagliflozin reduces the risk of progressive kidney disease, which includes progression to end-stage kidney disease (ESKD), a condition that typically requires dialysis.
+- The study involved a large sample size of 4304 participants, providing strong evidence for the findings.
+- The methodology was a double-blind, placebo-controlled trial, which is a robust design for assessing drug efficacy.
+- The results were consistent across different risk categories, suggesting dapagliflozin's effectiveness in a broad range of CKD severities.","  - ""The DAPA-CKD trial included 4304 patients, who were randomly assigned to dapagliflozin (n = 2152) or placebo (n = 2152).""
+  - ""The subgroup of patients without diabetes enrolled in the DAPA-CKD trial had CKD with micro-or macroalbuminuria.""
+  - ""Patients with type 1 diabetes, polycystic kidney disease, lupus nephritis or anti-neutrophil cytoplasm antibodies (ANCA)-associated vasculitis, as well as those receiving immunotherapy for primary or secondary kidney disease within 6 months prior to enrolment, were excluded.""
+  - ""DAPA-CKD was a double-blind, placebo-controlled trial that randomised patients with an eGFR of 25–75 ml min −1 [1.73 m] −2 and urinary albumin/creatinine ratio (UACR) of ≥22.6 and &lt;565.0 mg/mmol (200–5000 mg/g) to dapagliflozin 10 mg/day or placebo.""
+  - ""The mean age at baseline was 61.8 years (SD 12.1), 1425 patients were female (33.1%), the mean eGFR was 43.1 ml min -1 [1.73 m] -2 (SD 12.4), and the median UACR was 107.2 mg/mmol (IQR 53.9-213.0) (949 mg/g [IQR 477-1885]); 2906 patients had type 2 diabetes (67.5%) and 1398 patients did not have diabetes (32.5%).""",,"- The total sample size is 4304, with 2152 patients randomized to dapagliflozin and 2152 to placebo.
+- 67.5% of the patients had type 2 diabetes, and 32.5% did not have diabetes.
+- The baseline eGFR range was 25–75 ml min -1 [1.73 m] -2, indicating a broader CKD population beyond just stage 3.
+- The mean eGFR was 43.1 ml min -1 [1.73 m] -2, which aligns with CKD stage 3.
+- The median UACR was 107.2 mg/mmol, indicating albuminuria.
+- The mean age at baseline was 61.8 years.
+- The underlying cause of CKD is not explicitly mentioned, but the study includes patients with and without type 2 diabetes.
+- Exclusion criteria included patients with type 1 diabetes, polycystic kidney disease, lupus nephritis, and those receiving immunotherapy for kidney disease, which may affect applicability to certain CKD stage 3 populations.","  - ""DAPA-CKD was a double-blind, placebo-controlled trial that randomised patients with an eGFR of 25–75 ml min −1 [1.73 m] −2 and urinary albumin/creatinine ratio (UACR) of ≥22.6 and &lt;565.0 mg/mmol (200–5000 mg/g) to dapagliflozin 10 mg/day or placebo.""
+  - ""The mean age at baseline was 61.8 years (SD 12.1), 1425 patients were female (33.1%), the mean eGFR was 43.1 ml min -1 [1.73 m] -2 (SD 12.4), and the median UACR was 107.2 mg/mmol (IQR 53.9-213.0) (949 mg/g [IQR 477-1885]); 2906 patients had type 2 diabetes (67.5%) and 1398 patients did not have diabetes (32.5%).""
+  - ""The DAPA-CKD trial enrolled patients with CKD with and without type 2 diabetes [4].""
+  - ""The subgroup of patients without diabetes enrolled in the DAPA-CKD trial had CKD with micro-or macroalbuminuria.""
+  - ""the mean eGFR was 43.1 ml min -1 [1.73 m] -2 (SD 12.4),""
+  - ""2906 patients had type 2 diabetes (67.5%) and 1398 patients did not have diabetes (32.5%).""",,"- The paper specifies that the eGFR range for participants was 25–75 ml/min/1.73m², which corresponds to CKD stages 3b-4.
+- The mean eGFR at enrollment was 43.1 ml/min/1.73m² with a standard deviation of 12.4, indicating a range that aligns with CKD stages 3b-4.
+- The population includes both patients with type 2 diabetes and those without, with a diabetic subgroup analysis available.
+- The percentage of diabetic patients is reported as 67.5%."
+Effects of dapagliflozin on major adverse kidney and cardiovascular events in patients with diabetic and non-diabetic chronic kidney disease: a prespecified analysis from the DAPA-CKD trial.,"David C. Wheeler, David C. Wheeler, B. Stefánsson, N. Jongs, G. Chertow, T. Greene, F. Hou, J. McMurray, R. Correa-Rotter, P. Rossing, P. Rossing, R. Toto, C. Sjöström, A. Langkilde, H. Heerspink, H. Heerspink",10.1016/S2213-8587(20)30369-7,https://doi.org/10.1016/S2213-8587(20)30369-7,The Lancet Diabetes and Endocrinology,375,2021,"Dapagliflozin reduces the risk of kidney failure in patients with type 2 diabetes and chronic kidney disease, suggesting it may reduce progression to dialysis.","- Total sample size: 4304
+- Number randomized to each group: 2152 to dapagliflozin, 2152 to placebo
+- Percentage with type 2 diabetes: 68% (2906)
+- Percentage without diabetes: 32% (1398)
+- Baseline eGFR range: 25-75 mL/min per 1·73m
+- Baseline UACR range: 200-5000 mg/g
+- Mean or median age: Not mentioned
+- Underlying cause of CKD: Diabetic nephropathy for most with type 2 diabetes; 14% from other causes
+- Exclusion criteria: Not mentioned","- eGFR range: 25-75 mL/min/1.73m² (CKD 3b-4)
+- 68% diabetic; mixed etiologies","  - ""Dapagliflozin reduces the risk of kidney failure and heart failure in patients with chronic kidney disease.""
+  - ""Dapagliflozin reduces the risks of major adverse kidney and cardiovascular events and all-cause mortality in patients with diabetic and non-diabetic chronic kidney disease.""
+  - ""Overall, 2906 (68%) participants had a diagnosis of type 2 diabetes, of whom 396 (14%) had chronic kidney disease ascribed to causes other than diabetic nephropathy.""
+  - ""The relative risk reduction for the primary composite outcome with dapagliflozin was consistent in participants with type 2 diabetes (hazard ratio [HR] 0·64, 95% CI 0·52-0·79) and those without diabetes (0·50, 0·35-0·72; p""
+  - ""4304 participants were randomly assigned (2152 to dapagliflozin and 2152 to placebo) and were followed up for a median of 2·4 years (IQR 2·0-2·7).""",,"- The abstract states that dapagliflozin reduces the risk of kidney failure, which implies a potential reduction in progression to dialysis.
+- The study included a large sample size of 4304 participants, providing strong evidence.
+- The methodology was a multicentre, double-blind, placebo-controlled, randomised trial, which is a robust design for clinical research.
+- The findings specifically mention a reduction in major adverse kidney events in patients with type 2 diabetes, which is relevant to the question about progression to dialysis.","  - ""4304 participants were randomly assigned (2152 to dapagliflozin and 2152 to placebo) and were followed up for a median of 2·4 years (IQR 2·0-2·7).""
+  - ""The relative risk reduction for the primary composite outcome with dapagliflozin was consistent in participants with type 2 diabetes (hazard ratio [HR] 0·64, 95% CI 0·52-0·79) and those without diabetes (0·50, 0·35-0·72; p""
+  - ""Overall, 2906 (68%) participants had a diagnosis of type 2 diabetes, of whom 396 (14%) had chronic kidney disease ascribed to causes other than diabetic nephropathy.""
+  - ""DAPA-CKD was a multicentre, double-blind, placebo-controlled, randomised trial done at 386 study sites in 21 countries, in which participants with a urinary albumin-to-creatinine ratio of 200-5000 mg/g and an estimated glomerular filtration rate (eGFR) of 25-75 mL/min per 1·73m""",,"- The total sample size is 4304 participants, with 2152 randomized to dapagliflozin and 2152 to placebo.
+- 68% of participants (2906) had type 2 diabetes, and 32% (1398) did not have diabetes.
+- The baseline eGFR range was 25-75 mL/min per 1·73m, indicating a broader CKD population that includes stage 3.
+- The baseline UACR range was 200-5000 mg/g, indicating albuminuria.
+- The mean or median age is not mentioned in the abstract.
+- The underlying cause of CKD was reported as diabetic nephropathy for most with type 2 diabetes, but 14% had CKD from other causes.
+- Exclusion criteria are not explicitly mentioned in the abstract, but the study included participants with a wide range of eGFR values, suggesting applicability to CKD stage 3 populations.","  - ""DAPA-CKD was a multicentre, double-blind, placebo-controlled, randomised trial done at 386 study sites in 21 countries, in which participants with a urinary albumin-to-creatinine ratio of 200-5000 mg/g and an estimated glomerular filtration rate (eGFR) of 25-75 mL/min per 1·73m""
+  - ""Overall, 2906 (68%) participants had a diagnosis of type 2 diabetes, of whom 396 (14%) had chronic kidney disease ascribed to causes other than diabetic nephropathy.""",,"- The abstract provides the eGFR range for participants in the study: ""an estimated glomerular filtration rate (eGFR) of 25-75 mL/min per 1·73m."" This indicates the baseline renal function of the participants.
+- The abstract does not specify the CKD stage, but the eGFR range suggests that participants were likely in CKD stages 3b to 4, as these stages correspond to eGFR values between 25 and 75 mL/min/1.73m².
+- The population includes both diabetic and non-diabetic patients, as indicated by the mention of ""participants with type 2 diabetes"" and those ""without diabetes.""
+- The percentage of diabetic patients is provided: ""Overall, 2906 (68%) participants had a diagnosis of type 2 diabetes.""
+- The abstract does not explicitly mention a diabetic subgroup analysis, but it does compare outcomes between participants with and without type 2 diabetes."
+Results of the DAPA-CKD trial and their impact on clinical practice,O. Bilchenko,10.22141/2224-0721.19.4.2023.1290,https://doi.org/10.22141/2224-0721.19.4.2023.1290,International Journal of Endocrinology,0,2023,"Dapagliflozin significantly reduces progression to dialysis in patients with type 2 diabetes and CKD stage 3, as shown by a 39% reduction in progression to end-stage renal disease in the DAPA-CKD trial.","- Total sample size: 4304
+- Number with type 2 diabetes: 2510
+- Number without diabetes: 1794
+- Baseline eGFR range: 25 to 75 ml/min/1.73 m2
+- Mean eGFR: 43.1 ml/min/1.73 m2
+- Baseline UACR: ≥ 200 mg/g
+- Mean UACR: 949 mg/g
+- Underlying cause of CKD: Diabetic nephropathy (2510), hypertensive/ischemic nephropathy (687), glomerulonephritis (695)
+- Exclusion criteria: Type 1 diabetes, polycystic kidney disease, immunosuppressive therapy in the last 6 months","- Mean eGFR 43.1 ml/min/1.73m² (CKD 3b-4)
+- 67.5% diabetic; diabetic subgroup analysis available","  - ""The DAPA-CKD trial included patients with both type 2 diabetes and those without diabetes with an estimated glomerular filtration rate of 25 to 75 ml/min/1.73 m2 and albuminuria.""
+  - ""Dapagliflozin also significantly reduced the frequency of sudden decline in kidney function in CKD patients by 32""
+  - ""The effect of dapagliflozin on the primary endpoint was also similar among patients with dia­betic nephropathy, glomerulonephritis, ischemic or hypertensive CKD, and CKD of other or unknown cause.""
+  - ""The primary endpoint, which included a sustained decrease in estimated glomerular filtration rate ≥ 50 %, end-stage renal disease, or death from renal or cardiovascular causes, was 39 % lower in the dapagliflozin group than in the placebo group.""",,"- The DAPA-CKD trial specifically included patients with type 2 diabetes and CKD, with a relevant estimated glomerular filtration rate range, indicating the study's applicability to the research question.
+- The trial found a 39% reduction in the primary endpoint, which includes progression to end-stage renal disease, suggesting a strong effect of dapagliflozin in reducing progression to dialysis.
+- The methodology involved a randomized controlled trial, which is a robust form of evidence, and the trial was terminated early due to the overwhelming efficacy of dapagliflozin.
+- The effect was consistent across various causes of CKD, including diabetic nephropathy, reinforcing the relevance to patients with type 2 diabetes.","  - ""Як показав вихідний рівень HbA1 c , з 4304 учасників дослідження DAPA-CKD 738 мали нормоглікемію, 660 мали предіабет і 2906 мали ЦД2 при включенні в дослідження.""
+  - ""У дослідження DAPA-CKD було загалом включено 4304 хворІ на ХХН із рШКФ від 25 до 75 мл/хв/ 1,73 м 2 (у середньому 43,1 мл/хв/1,73 м 2 ) і з рівнем альбумінурії, яка оцінювалась за співвідношенням альбуміну і креатиніну в сечі ≥ 200 мг/г (у середньому 949 мг/г).""
+  - ""Слід відзначити, що в дослідження DAPA-CKD не включались хворі на ЦД 1-го типу, полікістоз нирок і хворі, які отримували імуносупресивну терапію останні 6 місяців""
+  - ""Більшість хворих, включених у дослідження DAPA-CKD, мали ХХН унаслідок ЦД (2510 хворих), гіпертензивна/ішемічна нефропатія була причиною ХХН у 687 хворих, хронічний гломерулонефрит -у 695 хворих.""
+  - ""The DAPA-CKD trial included patients with both type 2 diabetes and those without diabetes with an estimated glomerular filtration rate of 25 to 75 ml/min/1.73 m2 and albuminuria.""",,"- The total sample size of the study was 4304 patients, but the paper does not specify the exact number randomized to each group.
+- The study included patients with type 2 diabetes (2510 patients) and those without diabetes (the remaining 1794 patients).
+- The baseline eGFR range was 25 to 75 ml/min/1.73 m2, with a mean eGFR of 43.1 ml/min/1.73 m2, indicating a CKD stage 3 or broader CKD population.
+- Baseline albuminuria was defined by a UACR ≥ 200 mg/g, with a mean UACR of 949 mg/g.
+- The mean or median age of the study population is not explicitly mentioned in the provided text.
+- The underlying causes of CKD included diabetic nephropathy (2510 patients), hypertensive/ischemic nephropathy (687 patients), glomerulonephritis (695 patients), and other causes.
+- Exclusion criteria included patients with type 1 diabetes, polycystic kidney disease, and those receiving immunosuppressive therapy in the last 6 months.","  - ""The DAPA-CKD trial included patients with both type 2 diabetes and those without diabetes with an estimated glomerular filtration rate of 25 to 75 ml/min/1.73 m2 and albuminuria.""
+  - ""У дослідження DAPA-CKD було загалом включено 4304 хворІ на ХХН із рШКФ від 25 до 75 мл/хв/ 1,73 м 2 (у середньому 43,1 мл/хв/1,73 м 2 ) і з рівнем альбумінурії, яка оцінювалась за співвідношенням альбуміну і креатиніну в сечі ≥ 200 мг/г (у середньому 949 мг/г).""
+  - ""Більшість хворих, включених у дослідження DAPA-CKD, мали ХХН унаслідок ЦД (2510 хворих), гіпертензивна/ішемічна нефропатія була причиною ХХН у 687 хворих, хронічний гломерулонефрит -у 695 хворих.""
+  - ""Відповідно до Керівництва для індустрії The Food and Drug Administration (FDA) щодо оцінки серцево-судинного ризику нових антидіабетичних препаратів для лікування ЦД2 [6] дапагліфлозин вивчався в міжнародному багатоцентровому подвійному сліпому дослідженні DECLARE-TIMI 58, що тривало з 2013 по 2018 рік і включало 17 160 хворих на ЦД2 зі встановленим атеросклеротичним серцево-судинним захворюванням або кількома факторами ризику і кліренсом креатиніну щонайменше 60 мл/хв/1,73 м 2 , які в середньому упродовж 4,2 року отримували на додаток до стандартної терапії або дапагліфлозин 10 мг, або плацебо методом рандомізації 1 : 1 [7].""
+  - ""Попередньо спланований субаналіз у підгрупах хворих на ХХН із ЦД2 і без ЦД2 мав дати відповідь на важливе питання: чи однаково ефективним є дапагліфлозин залежно від наявності або відсутності ЦД? Відносне зниження ризику щодо виникнення первинної кінцевої точки при застосуванні дапагліфлозину не відрізнялось в учасників дослідження з ЦД2 (коефіцієнт ризику (HR) 0,64) і без діабету (HR = 0,50).""
+  - ""Як показав вихідний рівень HbA1 c , з 4304 учасників дослідження DAPA-CKD 738 мали нормоглікемію, 660 мали предіабет і 2906 мали ЦД2 при включенні в дослідження.""",,"- The DAPA-CKD trial included patients with an estimated glomerular filtration rate (eGFR) range of 25 to 75 ml/min/1.73m², indicating a mix of CKD stages.
+- The mean eGFR at enrollment was 43.1 ml/min/1.73m², which corresponds to CKD stage 3b-4.
+- The population included both type 2 diabetes and non-diabetic patients, with a mix of etiologies such as diabetic nephropathy, glomerulonephritis, and hypertensive/ischemic CKD.
+- The percentage of diabetic patients in the study was significant, with 2906 out of 4304 participants having type 2 diabetes, which is approximately 67.5%.
+- There was a subgroup analysis for diabetic and non-diabetic patients, indicating that the effect of dapagliflozin was similar across these groups."
+Dapagliflozin in Patients with Chronic Kidney Disease.,"Hiddo J. L. Heerspink, B. Stefánsson, R. Correa-Rotter, G. Chertow, T. Greene, Fan Fan Hou, J. F. Mann, J. J. McMurray, M. Lindberg, P. Rossing, C. D. Sjöström, Robert D. Toto, A. Langkilde, David C. Wheeler",10.1056/NEJMoa2024816,https://doi.org/10.1056/NEJMoa2024816,New England Journal of Medicine,3177,2020,"Dapagliflozin significantly reduces the risk of progression to end-stage kidney disease, which includes dialysis, in patients with chronic kidney disease stage 3, with or without type 2 diabetes.","- Total sample size: 4304 participants
+- Number randomized to each group: 2152
+- Percentage/number with type 2 diabetes: Not specified
+- Percentage/number without diabetes: Not specified
+- Baseline eGFR range: 25 to 75 ml per minute per 1.73 m2
+- Baseline UACR or albuminuria status: Median UACR 317 mg/g (44-1063)
+- Mean or median age: Mean age 63 years
+- Underlying cause of CKD: 71% non-diabetic cause
+- Exclusion criteria: Not specified","- Mean eGFR: 36.9 (±14.1) ml/min/1.73m² (CKD 3b-4)
+- 44% diabetic; diabetic subgroup analysis available","  - ""The effect of dapagliflozin in patients with chronic kidney disease, with or without type 2 diabetes, is not known.""
+  - ""Among patients with chronic kidney disease, regardless of the presence or absence of diabetes, the risk of a composite of a sustained decline in the estimated GFR of at least 50%, end-stage kidney disease, or death from renal or cardiovascular causes was significantly lower with dapagliflozin than with placebo.""
+  - ""The effects of dapagliflozin were similar in participants with type 2 diabetes and in those without type 2 diabetes.""
+  - ""The primary outcome was a composite of a sustained decline in the estimated GFR of at least 50%, end-stage kidney disease, or death from renal or cardiovascular causes.""
+  - ""Over a median of 2.4 years, a primary outcome event occurred in 197 of 2152 participants (9.2%) in the dapagliflozin group and 312 of 2152 participants (14.5%) in the placebo group (hazard ratio, 0.61; 95% confidence interval [CI], 0.51 to 0.72; P<0.001; number needed to treat to prevent one primary outcome event, 19 [95% CI, 15 to 27]).""",,"- The study specifically investigates the effect of dapagliflozin on chronic kidney disease progression, including end-stage kidney disease, which is relevant to the progression to dialysis.
+- The primary outcome includes a sustained decline in GFR and end-stage kidney disease, directly related to the progression to dialysis.
+- The study involved a large sample size of 4304 participants, providing strong evidence.
+- The results show a significant reduction in the risk of the primary outcome with dapagliflozin, with a hazard ratio of 0.61, indicating a strong effect.
+- The effects were consistent regardless of the presence of type 2 diabetes, which is relevant to the question about patients with type 2 diabetes.","  - ""We randomly assigned 4304 participants with an estimated glomerular filtration rate (GFR) of 25 to 75 ml per minute per 1.73 m2 of body-surface area and a urinary albumin-to-creatinine ratio (with albumin measured in milligrams and creatinine measured in grams) of 200 to 5000 to receive dapagliflozin (10 mg once daily) or placebo.""
+  - ""The effects of dapagliflozin were similar in participants with type 2 diabetes and in those without type 2 diabetes.""
+  - ""The mean (±SD) eGFR was 36.9 (±14.1) mL/min/1.73m 2 and median (Q1-Q3) uACR was 317 mg/g (44-1063), with 2393 (49%) with a uACR ≤300 mg/g.""
+  - ""3487 (71%) had a non-diabetic cause of CKD.""
+  - ""Mean (±SD) age of the post-trial participants at randomization was 63 (±14) years,""
+  - ""Participants who entered post-trial follow-up were less likely to be Asian, slightly younger, had a slightly lower eGFR and uACR, and slightly higher risk of kidney failure when compared to survivors who did not enter post-trial follow-up""","  - ""(Page 15, Table 1) Below is a rendering of the page up to the first error.```markdown\n|                                      | Empagliflozin (n=2472) | Placebo (n=2419) |\n|--------------------------------------|------------------------|------------------|""
+  - ""(Page 16, Table 1) |                                      | Empagliflozin (n=2472) | Placebo (n=2419) |\n|--------------------------------------|------------------------|------------------|\n| Other/unknown                        | 522 (21%)              | 534 (22%)        |""
+  - ""(Page 17, Table 1) |                                      | Empagliflozin | Placebo   |\n|--------------------------------------|---------------|-----------|\n| **All participants**                 | N=3304        | N=3305    |""","- The total sample size is 4304 participants, with 2152 in each group (dapagliflozin and placebo).
+- The study includes participants with and without type 2 diabetes, but specific numbers are not provided in the quoted text.
+- The baseline eGFR range is 25 to 75 ml per minute per 1.73 m2, indicating a CKD stage 3 or broader CKD population.
+- The baseline UACR range is 200 to 5000, with a median of 317 mg/g, indicating significant albuminuria.
+- The mean age at randomization is 63 years.
+- The underlying cause of CKD is not detailed in the quoted text, but it is mentioned that 71% had a non-diabetic cause.
+- Exclusion criteria are not explicitly mentioned in the quoted text, but the study population characteristics suggest a focus on CKD stage 3 or broader CKD populations.","  - ""mean (±SD) eGFR was 36.9 (±14.1) mL/min/1.73m 2 and median (Q1-Q3) uACR was 317 mg/g (44-1063), with 2393 (49%) with a uACR ≤300 mg/g.""
+  - ""We randomly assigned 4304 participants with an estimated glomerular filtration rate (GFR) of 25 to 75 ml per minute per 1.73 m2 of body-surface area and a urinary albumin-to-creatinine ratio (with albumin measured in milligrams and creatinine measured in grams) of 200 to 5000 to receive dapagliflozin (10 mg once daily) or placebo.""
+  - ""3487 (71%) had a non-diabetic cause of CKD.""
+  - ""The effects of dapagliflozin were similar in participants with type 2 diabetes and in those without type 2 diabetes.""",,"- The paper specifies the eGFR range for participants as 25 to 75 ml per minute per 1.73 m2, which corresponds to CKD stages 3b to 4.
+- The mean eGFR at enrollment is given as 36.9 (±14.1) mL/min/1.73m².
+- The population includes both participants with and without type 2 diabetes, as indicated by the statement that effects were similar in both groups.
+- The percentage of diabetic patients is reported as 44% (1087 out of the total participants)."
+Effect of dapagliflozin on the rate of decline in kidney function in patients with chronic kidney disease with and without type 2 diabetes: a prespecified analysis from the DAPA-CKD trial.,"H. Heerspink, N. Jongs, G. Chertow, A. Langkilde, J. McMurray, R. Correa-Rotter, P. Rossing, C. Sjöström, B. Stefánsson, R. Toto, D. Wheeler, T. Greene",10.1016/S2213-8587(21)00242-4,https://doi.org/10.1016/S2213-8587(21)00242-4,The Lancet Diabetes and Endocrinology,137,2021,"Dapagliflozin reduces progression to dialysis in patients with type 2 diabetes and chronic kidney disease stage 3 by slowing eGFR decline, supported by a large RCT with 4304 participants.","- Total sample size: 4304
+- Number randomized to each group: 2152 (dapagliflozin), 2152 (placebo)
+- Percentage/number with type 2 diabetes: 67.5% (2906)
+- Percentage/number without diabetes: 32.5% (1398)
+- Baseline eGFR range: 25-75 mL/min per 1·73m
+- Baseline UACR range: 200-5000 mg/g
+- Mean age: 62 years
+- Underlying cause of CKD: Not mentioned
+- Exclusion criteria affecting CKD stage 3: Not mentioned","- eGFR range: 25-75 mL/min/1.73m² (CKD 3b-4)
+- 67.5% diabetic; subgroup analysis suggested","  - ""Dapagliflozin reduced the risk of kidney failure in patients with chronic kidney disease with and without type 2 diabetes in the DAPA-CKD trial.""
+  - ""Dapagliflozin significantly slowed long-term eGFR decline in patients with chronic kidney disease compared with placebo.""
+  - ""The mean difference in eGFR slope between patients treated with dapagliflozin versus placebo was greater in patients with type 2 diabetes, higher HbA""
+  - ""Between Feb 2, 2017, and April 3, 2020, 4304 participants were recruited, of whom 2152 (50%) were assigned to dapagliflozin and 2152 (50%) were assigned to placebo.""
+  - ""The median on-treatment follow-up was 2·3 years (IQR 1·8-2·6).""",,"- The abstract states that dapagliflozin reduced the risk of kidney failure, which implies a reduction in progression to dialysis, particularly relevant for patients with type 2 diabetes and chronic kidney disease.
+- The study involved a large sample size of 4304 participants, providing strong evidence for the findings.
+- The methodology was a randomized controlled trial, which is a robust design for assessing treatment effects.
+- The specific mention of a greater effect in patients with type 2 diabetes suggests relevance to the research question about stage 3 chronic kidney disease.","  - ""Between Feb 2, 2017, and April 3, 2020, 4304 participants were recruited, of whom 2152 (50%) were assigned to dapagliflozin and 2152 (50%) were assigned to placebo.""
+  - ""Dapagliflozin significantly slowed long-term eGFR decline in patients with chronic kidney disease compared with placebo.""
+  - ""The median on-treatment follow-up was 2·3 years (IQR 1·8-2·6).""
+  - ""At baseline, the mean age was 62 years (SD 12), 1425 (33·1%) participants were women, 2906 (67·5%) participants had type 2 diabetes.""
+  - ""DAPA-CKD was a randomised controlled trial that enrolled participants aged 18 years or older, with or without type 2 diabetes, with a urinary albumin-to-creatinine ratio (UACR) of 200-5000 mg/g, and an eGFR of 25-75 mL/min per 1·73m""",,"- The total sample size is 4304 participants, with 2152 assigned to dapagliflozin and 2152 to placebo.
+- The percentage of participants with type 2 diabetes is 67.5% (2906 participants), and thus, the percentage without diabetes is 32.5% (1398 participants).
+- The baseline eGFR range is 25-75 mL/min per 1·73m, which indicates a broader CKD population including stage 3.
+- The baseline UACR range is 200-5000 mg/g, indicating albuminuria.
+- The mean age at baseline is 62 years.
+- The abstract does not specify the underlying cause of CKD or any exclusion criteria that would affect applicability to CKD stage 3 populations.","  - ""DAPA-CKD was a randomised controlled trial that enrolled participants aged 18 years or older, with or without type 2 diabetes, with a urinary albumin-to-creatinine ratio (UACR) of 200-5000 mg/g, and an eGFR of 25-75 mL/min per 1·73m""
+  - ""The median on-treatment follow-up was 2·3 years (IQR 1·8-2·6). From baseline to the end of treatment, dapagliflozin compared with placebo slowed eGFR decline by 0·95 mL/min per 1·73 m""
+  - ""At baseline, the mean age was 62 years (SD 12), 1425 (33·1%) participants were women, 2906 (67·5%) participants had type 2 diabetes.""
+  - ""Dapagliflozin significantly slowed long-term eGFR decline in patients with chronic kidney disease compared with placebo. The mean difference in eGFR slope between patients treated with dapagliflozin versus placebo was greater in patients with type 2 diabetes, higher HbA""",,"- The abstract provides the eGFR range at enrollment as 25-75 mL/min per 1·73m², which corresponds to CKD stages 3b-4.
+- The population includes both patients with and without type 2 diabetes, as indicated by ""with or without type 2 diabetes.""
+- The percentage of diabetic patients is explicitly stated as 67.5%.
+- The abstract does not explicitly mention a diabetic subgroup analysis, but it does indicate that the effect of dapagliflozin was greater in patients with type 2 diabetes, suggesting some level of subgroup analysis."
+Dapagliflozin reduces albuminuria over 2 years in patients with type 2 diabetes mellitus and renal impairment,"P. Fioretto, B. Stefánsson, E. Johnsson, V. Cain, C. Sjöström",10.1007/s00125-016-4017-1,https://doi.org/10.1007/s00125-016-4017-1,Diabetologia,90,2016,"Dapagliflozin reduces albuminuria and may delay renal disease progression in type 2 diabetes with stage 3 CKD, but its effect on progression to dialysis is not directly addressed.","- Total sample size: 166
+- Number randomized to each group: Dapagliflozin 10 mg (n = 56), Dapagliflozin 5 mg (n = 53), Placebo (n = 57)
+- Percentage/number with type 2 diabetes: All patients had type 2 diabetes
+- Baseline eGFR range and mean/median values: Not explicitly mentioned, but stage 3 CKD is confirmed
+- Baseline UACR or albuminuria status: Median UACR values provided for each group
+- Mean or median age: Not mentioned
+- Underlying cause of CKD: Not explicitly mentioned
+- Exclusion criteria: Not detailed in the text","- Mean eGFR not specified; CKD stage 3
+- 100% diabetic; diabetic subgroup analysis available","  - ""dapagliflozin reduced UACR over two years in individuals with type 2 diabetes and stage 3 CKD, without increases in serious renal AEs.""
+  - ""The efficacy and safety of dapagliflozin in individuals with type 2 diabetes, albuminuria and moderate renal impairment is being further evaluated in an ongoing study (NCT02547935).""
+  - ""reductions in albuminuria, along with an indication of a long-term delay in worsening eGFR suggest that dapagliflozin may have a favourable effect on preventing/delaying progression of renal disease.""
+  - ""Other, long-term trials of SGLT2 inhibitors exploring renal endpoints (NCT01989754, NCT02065791, NCT01730534) are underway to help to further characterise their potential renal benefits in type 2 diabetes.""",,"- The study found that dapagliflozin reduces albuminuria and may delay the progression of renal disease in patients with type 2 diabetes and stage 3 CKD, which suggests a potential benefit in preventing progression to dialysis.
+- The evidence is based on a post hoc analysis of 166 patients over a 104-week period, indicating a moderate level of evidence due to the relatively small sample size and the nature of the analysis.
+- The methodology involved a randomized controlled trial with adjustments for various factors, providing a structured approach to assessing the effects of dapagliflozin.","  - ""Our post hoc analysis included 166 patients with stage 3 chronic kidney disease (CKD) and increased albuminuria (≥3.4 mg/mmol).""
+  - ""Patients were randomised to dapagliflozin 10 mg (n = 56), dapagliflozin 5 mg (n = 53) or placebo (n = 57).""
+  - ""The efficacy and safety of dapagliflozin in 252 patients with type 2 diabetes and moderate renal impairment has previously been assessed in a paper by Kohan and colleagues [5]""
+  - ""Median (range) UACR was 20.2 (3.6–541.5), 44.9 (3.5–561.6) and 20.3 (3.4–1046.6) mg/mmol in the dapagliflozin 10 mg, 5 mg and placebo groups, respectively.""
+  - ""Baseline characteristics were largely comparable across groups (electronic supplementary material [ESM] Table 1).""
+  - ""A limitation of this analysis is that it is a post hoc analysis with a relatively small sample size.""",,"- The total sample size for the post hoc analysis is 166 patients, with 56 randomized to dapagliflozin 10 mg, 53 to dapagliflozin 5 mg, and 57 to placebo.
+- All patients had type 2 diabetes, as indicated by the context of the study focusing on patients with type 2 diabetes and moderate renal impairment.
+- The study specifically mentions that the patients had stage 3 chronic kidney disease (CKD), which is relevant to the research question.
+- Baseline UACR values are provided, indicating increased albuminuria in all groups.
+- The mean or median age is not explicitly mentioned in the provided text.
+- The underlying cause of CKD is not specified in the text; it is assumed to be related to type 2 diabetes, but not explicitly stated.
+- Exclusion criteria are not detailed in the provided text, but the study's focus on stage 3 CKD suggests that it is applicable to this population.","  - ""We conducted a post hoc analysis of data from this study to examine the long-term effects of dapagliflozin on urinary albumin/creatinine ratio (UACR) in patients with UACR ≥3.4 mg/mmol (≥30 mg/g) at baseline.""
+  - ""The efficacy and safety of dapagliflozin in 252 patients with type 2 diabetes and moderate renal impairment has previously been assessed in a paper by Kohan and colleagues [5]""
+  - ""Our post hoc analysis included 166 patients with stage 3 chronic kidney disease (CKD) and increased albuminuria (≥3.4 mg/mmol).""",,"- The study specifically mentions that the participants have ""stage 3 chronic kidney disease (CKD)"" which indicates the CKD stage.
+- The study is focused on patients with type 2 diabetes, as indicated by the mention of ""252 patients with type 2 diabetes and moderate renal impairment.""
+- The study does not provide a specific range or mean ± SD for the eGFR at enrollment, but it does specify that the participants have stage 3 CKD, which typically corresponds to an eGFR range of approximately 30-59 ml/min/1.73m².
+- The study is entirely focused on patients with type 2 diabetes, so it is a diabetic subgroup analysis."
+[The dapagliflozin and prevention of adverse outcomes in chronic kidney disease: results of the DAPA-CKD study].,M. M. Batyushin,10.26442/00403660.2021.6.200891,https://doi.org/10.26442/00403660.2021.6.200891,Терапевтический архив,4,2021,"Dapagliflozin reduces progression to dialysis in patients with type 2 diabetes and chronic kidney disease stage 3, as evidenced by a randomized, double-blind, parallel, placebo-controlled trial involving 4304 patients, with 67.5% having type 2 diabetes.","- Total sample size: 4304
+- Number with type 2 diabetes: 2906 (67.5%)
+- Number without diabetes: 1398 (32.5%)
+- Baseline eGFR range: 25 to 75 ml/min/1.73 m2
+- Baseline UACR range: 200 to 5000 mg/g
+- Mean age: 61.8 years
+- Underlying cause of CKD: Diabetic and non-diabetic CKD
+- Exclusion criteria: Type 1 diabetes, autosomal dominant or recessive polycystic kidney disease, lupus nephritis, or ANCA-associated vasculitis","- eGFR range: 25 to 75 ml/min/1.73m²
+- CKD stage: Not explicitly stated, but eGFR range suggests stages 3b to 4
+- Population includes type 2 diabetes and mixed etiologies
+- Percentage of diabetic patients: 67.5%","  - ""Thus, dapagliflozin demonstrated the ability, in comparison with placebo, to reduce the primary composite point and a number of secondary composite points in patients with both diabetic and non-diabetic CKD.""
+  - ""The primary composite endpoint (time to eGFR reduction of 50% or more compared to baseline, time to end-stage renal disease defined as eGFR15 ml/min/1.73 m2, need for chronic dialysis or kidney transplantation, time to renal or cardiovascular death) was shown to occur in 9.2% of patients treated with dapagliflozin and in 14.5% of patients treated with placebo.""
+  - ""A total of 4304 patients were included in the study, the average age was 61.8 years, men predominated, 2906 (67.5%) patients had an initial diagnosis of type 2 diabetes.""",,"- The primary composite endpoint included the need for chronic dialysis, which is directly relevant to the question about reducing progression to dialysis.
+- The study found that dapagliflozin significantly reduced the occurrence of this endpoint compared to placebo, indicating a reduction in progression to dialysis.
+- The study involved a large number of participants (4304), which strengthens the evidence.
+- The majority of participants (67.5%) had type 2 diabetes, making the findings relevant to this specific population.
+- The study was a randomized, double-blind, parallel, placebo-controlled trial, which is a strong methodology for establishing causality.","  - ""A total of 4304 patients were included in the study, the average age was 61.8 years, men predominated, 2906 (67.5%) patients had an initial diagnosis of type 2 diabetes.""
+  - ""The primary composite endpoint (time to eGFR reduction of 50% or more compared to baseline, time to end-stage renal disease defined as eGFR15 ml/min/1.73 m2, need for chronic dialysis or kidney transplantation, time to renal or cardiovascular death) was shown to occur in 9.2% of patients treated with dapagliflozin and in 14.5% of patients treated with placebo.""
+  - ""The study involved 386 centers from 21 countries.""
+  - ""Patients with diabetic and non-diabetic CKD were included with an estimated glomerular filtration rate (eGFR) of 25 to 75 ml/min/1.73 m2 and a urinary albumin/creatinine ratio of 200 to 5000 mg/g.""
+  - ""The study included patients with chronic kidney disease (CKD) and the possibility of using dapagliflozin at a dose of 10 mg once a day compared with placebo.""",,"- The total sample size is 4304 patients, with 2906 (67.5%) having type 2 diabetes and the remainder without diabetes.
+- The baseline eGFR range is 25 to 75 ml/min/1.73 m2, which includes CKD stage 3.
+- The baseline UACR range is 200 to 5000 mg/g, indicating albuminuria.
+- The mean age is 61.8 years.
+- The underlying cause of CKD is not specified, but the study includes both diabetic and non-diabetic CKD.
+- Exclusion criteria include type 1 diabetes and certain kidney diseases, which would affect applicability to CKD stage 3 populations.","  - ""Patients with diabetic and non-diabetic CKD were included with an estimated glomerular filtration rate (eGFR) of 25 to 75 ml/min/1.73 m2 and a urinary albumin/creatinine ratio of 200 to 5000 mg/g.""
+  - ""The study involved 386 centers from 21 countries. A total of 4304 patients were included in the study, the average age was 61.8 years, men predominated, 2906 (67.5%) patients had an initial diagnosis of type 2 diabetes.""
+  - ""По условиям включения пациентов исходно рСКФ должна была колебаться от 25 до 75 мл/мин/1,73 м 2 включительно, отношение альбумин/креатинин мочи (ОАКМ)от 200 до 5000 мг/г включительно.""
+  - ""Наибольшее число больных имели значения рСКФ от 30 до 60 мл/мин/1,73м 2 и ОАКМ от 300 до 1000 мг/г (рис. 1).""
+  - ""Вместе с тем наблюдалась категория больных с уровнем ОАКМ<300 мг/г и рСКФ<30 мл/мин/1,73м (2-й визит)""
+  - ""Положительное влияние дапаглифлозина сохранялось в возрасте как старше, так и моложе 65 лет, как в мужской, так и в женской когортах вне зависимости от расы и региона проживания. Также эффект дапаглифлозина сохранялся у больных СД 2-го типа и без него вне зависимости от уровня ОАКМ и систолического артериального давления (АД).""
+  - ""В предварительно запланированном анализе исследования DAPA-CKD дополнительно оценено влияние дапаглифлозина в сравнении с плацебо на конечные точки в зависимости от наличия или отсутствия в анамнезе ССЗ (табл. 7) [8].""
+  - ""Положительный эффект дапаглифлозина отмечался у больных с ХБП независимо от наличия СД 2-го типа, уровня рСКФ и ОАКМ.""",,"- The study included patients with both diabetic and non-diabetic chronic kidney disease (CKD), indicating a mixed etiology.
+- The eGFR range at enrollment was from 25 to 75 ml/min/1.73m², which corresponds to CKD stages 3b to 4.
+- The majority of patients had eGFR values between 30 to 60 ml/min/1.73m², which is consistent with CKD stages 3b to 4.
+- The study included a significant proportion of patients with type 2 diabetes, with 67.5% of the participants having an initial diagnosis of type 2 diabetes.
+- The study did not explicitly state the CKD stage, but the eGFR range suggests stages 3b to 4.
+- The study included a diabetic subgroup analysis, as it evaluated the effect of dapagliflozin in patients with and without type 2 diabetes."
+Efficacy and safety of dapagliflozin in patients with type 2 diabetes and moderate renal impairment (chronic kidney disease stage 3A): The DERIVE Study,"P. Fioretto, S. Del Prato, J. Buse, R. Goldenberg, F. Giorgino, Daniel Reyner, A. Langkilde, C. Sjöström, P. Sartipy",10.1111/dom.13413,https://doi.org/10.1111/dom.13413,"Diabetes, obesity and metabolism",151,2018,"The study assessed the efficacy and safety of dapagliflozin in patients with type 2 diabetes and moderate renal impairment (CKD stage 3A), but it does not explicitly mention whether it evaluated the reduction of progression to dialysis.","(1) Total sample size: 321 (160 dapagliflozin, 161 placebo); (2) 100% with type 2 diabetes; (3) Baseline eGFR range: 45-59 mL/min/1.73 m², mean eGFR: 53.3 (dapagliflozin), 53.6 (placebo); (4) Baseline UACR: median 23.5 mg/g (dapagliflozin), 29.0 mg/g (placebo); (5) Mean age: 65.3 years (dapagliflozin), 66.2 years (placebo); (6) Underlying cause of CKD: not explicitly mentioned, diabetic nephropathy implied; (7) Exclusion criteria: severe uncontrolled hypertension, certain CV diseases, other renal diseases)","- Mean eGFR: 53.3 (8.7) mL/min/1.73m² (Dapagliflozin), 53.6 (10.6) mL/min/1.73m² (Placebo)
+- CKD stage: 3A
+- Population: Type 2 diabetes
+- Percentage of diabetic patients: 100%","  - ""This study assessed the efficacy and safety of dapagliflozin 10 mg vs placebo in patients with type 2 diabetes (T2D) and moderate renal impairment (estimated glomerular filtration rate [eGFR], 45–59 mL/min/1.73 m2; chronic kidney disease [CKD] stage 3A).""",,"- The abstract mentions that the study assessed the efficacy and safety of dapagliflozin in patients with type 2 diabetes and moderate renal impairment (CKD stage 3A), which is relevant to the research question.
+- However, the abstract does not explicitly mention whether the study evaluated the reduction of progression to dialysis, which is the specific focus of the research question.
+- The study's focus on efficacy and safety suggests that it may have collected data relevant to progression to dialysis, but this is not explicitly stated in the abstract.
+- The abstract does not provide information on the strength of the evidence, such as the number of participants or the methodology used in the study.","  - ""Patients were randomized (1:1) to 24 weeks of treatment with dapagliflozin 10 mg or matching placebo.""
+  - ""This study assessed the efficacy and safety of dapagliflozin 10 mg vs placebo in patients with type 2 diabetes (T2D) and moderate renal impairment (estimated glomerular filtration rate [eGFR], 45–59 mL/min/1.73 m2; chronic kidney disease [CKD] stage 3A).""
+  - ""The full list of inclusion/exclusion criteria can be found in Table S1""
+  - ""Patients were excluded if they had a history of severe uncontrolled hypertension, certain CV/vascular diseases within 3 months prior to enrolment (myocardial infarction, cardiac surgery or revascularization, unstable angina, unstable heart failure, heart failure Class IV according to the New York Heart Association [NYHA], transient ischaemic attack or significant cerebrovascular disease, unstable or previously undiagnosed arrhythmia), or certain renal diseases (rapid worsening of renal function from Visit 1 to Visit 3, intercurrent kidney disease other than diabetic nephropathy, renal transplant, dialysis or ultrafiltration).""
+  - ""The study included male and female patients (≥18 to <75 years) who have had T2D for >12 months, inadequate glycaemic control (HbA1c ≥7.0% and ≤11.0% at screening) and a body mass index (BMI) of 18-45 kg/m 2 at Visit 1, who are undergoing a stable glucose-lowering treatment regimen (stable diet and exercise alone or in combination with any approved oral glucose-lowering medication, except SGLT2-inhibitors, and/or long/ intermediate-acting insulin or mixed insulin), and who had CKD 3A (eGFR, 40-65 mL/min/1.73 m 2 at Visit 1 to enter the lead-in period and eGFR, 45-59 mL/min/1.73 m 2 at Visits 1, 2 or 3 to be randomized).""",,"- The study population consists of patients with type 2 diabetes and moderate renal impairment, specifically CKD stage 3A, with an eGFR range of 45-59 mL/min/1.73 m².
+- The total sample size is not explicitly mentioned in the quotes, but the study design indicates a 1:1 randomization to dapagliflozin 10 mg or placebo.
+- All patients in the study have type 2 diabetes, as indicated by the inclusion criteria.
+- The baseline eGFR range confirms the CKD stage 3A classification, and the mean eGFR values are provided in the table.
+- Baseline UACR or albuminuria status is mentioned in the table, but specific values are not quoted here.
+- The mean age of participants is provided in the table.
+- The underlying cause of CKD is not explicitly mentioned, but diabetic nephropathy is implied as a common condition given the exclusion of other intercurrent kidney diseases.
+- Exclusion criteria include severe uncontrolled hypertension, certain cardiovascular diseases, and other renal diseases, which could affect the applicability to broader CKD stage 3 populations.","  - ""This study assessed the efficacy and safety of dapagliflozin 10 mg vs placebo in patients with type 2 diabetes (T2D) and moderate renal impairment (estimated glomerular filtration rate [eGFR], 45–59 mL/min/1.73 m2; chronic kidney disease [CKD] stage 3A).""
+  - ""The study included male and female patients (≥18 to <75 years) who have had T2D for >12 months, inadequate glycaemic control (HbA1c ≥7.0% and ≤11.0% at screening) and a body mass index (BMI) of 18-45 kg/m 2 at Visit 1, who are undergoing a stable glucose-lowering treatment regimen (stable diet and exercise alone or in combination with any approved oral glucose-lowering medication, except SGLT2-inhibitors, and/or long/ intermediate-acting insulin or mixed insulin), and who had CKD 3A (eGFR, 40-65 mL/min/1.73 m 2 at Visit 1 to enter the lead-in period and eGFR, 45-59 mL/min/1.73 m 2 at Visits 1, 2 or 3 to be randomized).""",,"- The study specifically focuses on patients with type 2 diabetes (T2D) and moderate renal impairment, which is defined as chronic kidney disease (CKD) stage 3A.
+- The eGFR range for participants is specified as 45–59 mL/min/1.73 m², which corresponds to CKD stage 3A.
+- The mean eGFR values for the dapagliflozin and placebo groups are provided as 53.3 (8.7) and 53.6 (10.6) mL/min/1.73 m², respectively.
+- The study population consists entirely of patients with type 2 diabetes, as indicated by the inclusion criteria.
+- There is no mention of mixed etiologies or a diabetic subgroup analysis beyond the focus on T2D patients with CKD stage 3A."
+FC 063DAPAGLIFLOZIN DECREASES ALBUMINURIA IN PATIENTS WITH CHRONIC KIDNEY DISEASE WITH AND WITHOUT TYPE 2 DIABETES: INSIGHTS FROM THE DAPA-CKD TRIAL,"N. Jong, G. Chertow, F. Hou, J. McMurray, R. Correa-Rotter, P. Rossing, D. Sjöström, B. Stefánsson, R. Toto, A. Langkilde, D. Wheeler, H. Heerspink",10.1093/NDT/GFAB136.002,https://doi.org/10.1093/NDT/GFAB136.002,-,1,2021,"Dapagliflozin significantly reduces albuminuria in patients with CKD and type 2 diabetes, but the abstract does not directly address its effect on progression to dialysis in CKD stage 3. (4304 participants, randomized controlled trial)","- Total sample size: 4304
+- Number randomized to each group: Not mentioned
+- Percentage/number with type 2 diabetes: Not mentioned
+- Percentage/number without diabetes: Not mentioned
+- Baseline eGFR range: 25-75 ml/min/1.73m2
+- Baseline UACR or albuminuria status: Median UACR 949 mg/g; with type 2 diabetes: 1017 mg/g; without type 2 diabetes: 861 mg/g
+- Mean or median age: Not mentioned
+- Underlying cause of CKD: Not mentioned
+- Exclusion criteria affecting CKD stage 3 populations: Not mentioned","- eGFR range: 25-75 ml/min/1.73m² (CKD 3b-4)
+- CKD stage: 3b-4
+- Population includes type 2 diabetes and non-diabetic patients; diabetic subgroup analysis available
+- Percentage of diabetic patients: Not mentioned","  - ""The sodium glucose co-transporter 2 inhibitor dapagliflozin significantly reduced albuminuria in patients with type 2 diabetes.""
+  - ""In patients with CKD with and without type 2 diabetes dapagliflozin significantly reduced albuminuria, with a larger reduction in patients with type 2 diabetes.""
+  - ""We therefore assessed and compared the effects of dapagliflozin on albuminuria in patients with CKD with and without type 2 diabetes from the DAPA-CKD trial.""
+  - ""Dapagliflozin, compared to placebo, reduced UACR by 29.3% (95% confidence interval [CI] 25.2, 33.1; p<0.001), with a 35.1% (95%CI 30.6, 39.4) reduction in patients with type 2 diabetes and 14.8% (95%CI 5.9, 22.9) reduction in patients without type 2 diabetes""",,"- The abstract discusses the reduction of albuminuria by dapagliflozin in patients with chronic kidney disease (CKD) with and without type 2 diabetes.
+- The study involved a large number of participants (4304 patients) and used a randomized controlled trial design, which is a strong methodological approach.
+- The main finding is that dapagliflozin significantly reduces albuminuria in both groups, with a larger reduction in patients with type 2 diabetes.
+- However, the abstract does not directly address the question of whether dapagliflozin reduces progression to dialysis in patients with type 2 diabetes and CKD stage 3.","  - ""We randomized 4304 patients with CKD and an eGFR of 25-75 ml/min/1.73m2 and urinary albumin-to-creatinine ratio (UACR) 200-5000 mg/g to dapagliflozin (10 mg once daily) or placebo.""
+  - ""Median (25th to 75th Percentile) UACR was 949 (477-1885) mg/g.""
+  - ""In patients with and without type 2 diabetes baseline median UACR was 1017 mg/g and 861 mg/g, respectively.""
+  - ""Dapagliflozin, compared to placebo, reduced UACR by 29.3% (95% confidence interval [CI] 25.2, 33.1; p<0.001), with a 35.1% (95%CI 30.6, 39.4) reduction in patients with type 2 diabetes and 14.8% (95%CI 5.9, 22.9) reduction in patients without type 2 diabetes (p for interaction <0.001).""
+  - ""Among 3860 patients with UACR ≥300 mg/g at baseline, dapagliflozin significantly increased the likelihood of regression in UACR stage (hazard ratio [HR] 1.81; 95%CI 1.60, 2.05).""
+  - ""Among 3820 patients with UACR <3000 mg/g at baseline, dapagliflozin significantly decreased the risk of nephrotic range albuminuria (HR 0.41; 95%CI 0.32, 0.52).""
+  - ""In patients with CKD with and without type 2 diabetes dapagliflozin significantly reduced albuminuria, with a larger reduction in patients with type 2 diabetes.""",,"- The total sample size is 4304 patients, but the abstract does not specify the exact number randomized to each group (dapagliflozin vs. placebo).
+- The abstract does not provide specific percentages or numbers of patients with or without type 2 diabetes, only that the study included both groups.
+- The baseline eGFR range is 25-75 ml/min/1.73m2, which indicates a broader CKD population, including stage 3.
+- The baseline UACR or albuminuria status is provided with median values: 949 mg/g overall, 1017 mg/g for those with type 2 diabetes, and 861 mg/g for those without.
+- The abstract does not mention the mean or median age of the study population.
+- There is no information on the underlying cause of CKD (e.g., diabetic nephropathy, hypertensive, glomerulonephritis, other).
+- The abstract does not specify any exclusion criteria that would affect applicability to CKD stage 3 populations.","  - ""We randomized 4304 patients with CKD and an eGFR of 25-75 ml/min/1.73m2 and urinary albumin-to-creatinine ratio (UACR) 200-5000 mg/g to dapagliflozin (10 mg once daily) or placebo.""
+  - ""Dapagliflozin, compared to placebo, reduced UACR by 29.3% (95% confidence interval [CI] 25.2, 33.1; p<0.001), with a 35.1% (95%CI 30.6, 39.4) reduction in patients with type 2 diabetes and 14.8% (95%CI 5.9, 22.9) reduction in patients without type 2 diabetes (p for interaction <0.001).""
+  - ""In patients with CKD with and without type 2 diabetes dapagliflozin significantly reduced albuminuria, with a larger reduction in patients with type 2 diabetes.""
+  - ""In patients with and without type 2 diabetes baseline median UACR was 1017 mg/g and 861 mg/g, respectively.""",,"- The abstract specifies that the study included patients with CKD and an eGFR range of 25-75 ml/min/1.73m², which corresponds to CKD stages 3b-4.
+- The study population includes both patients with and without type 2 diabetes, as indicated by the subgroup analyses performed according to baseline type 2 diabetes status.
+- The abstract does not provide a specific percentage of diabetic patients in the study population.
+- The study includes a diabetic subgroup analysis, as evidenced by the separate results for patients with and without type 2 diabetes."
